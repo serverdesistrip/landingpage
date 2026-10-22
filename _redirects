@@ -1,0 +1,12 @@
+/ page=2 /410.html 410!
+/manage-cookies /410.html 410
+/category /410.html 410
+/category/* /410.html 410
+/categories /410.html 410
+/categories/* /410.html 410
+/models /410.html 410
+/models/* /410.html 410
+/tags /410.html 410
+/tags/* /410.html 410
+/videos /410.html 410
+/videos/* /410.html 410

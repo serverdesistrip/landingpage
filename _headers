@@ -1,0 +1,13 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+/
+  Netlify-CDN-Cache-Control: public, s-maxage=31536000
+/index.html
+  Netlify-CDN-Cache-Control: public, s-maxage=31536000
+/fonts/*
+  Cache-Control: public, max-age=2592000
+/logo.svg
+  Cache-Control: public, max-age=86400
+/favicon.ico
+  Cache-Control: public, max-age=86400
